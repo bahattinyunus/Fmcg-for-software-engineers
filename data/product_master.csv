@@ -1,0 +1,51 @@
+product_id,category,base_price,shelf_life_days
+P001,Personal Care,47.78,30
+P002,Household,31.86,730
+P003,Snacks,12.02,30
+P004,Dairy,43.98,90
+P005,Dairy,5.93,15
+P006,Personal Care,47.23,15
+P007,Personal Care,13.25,90
+P008,Snacks,28.61,90
+P009,Beverages,18.11,30
+P010,Snacks,7.1,90
+P011,Dairy,22.21,90
+P012,Beverages,7.09,30
+P013,Household,25.27,730
+P014,Snacks,47.7,90
+P015,Snacks,22.34,15
+P016,Household,15.39,730
+P017,Personal Care,24.81,90
+P018,Household,42.49,730
+P019,Dairy,45.92,90
+P020,Snacks,34.81,15
+P021,Snacks,30.55,180
+P022,Snacks,39.88,15
+P023,Snacks,45.27,365
+P024,Personal Care,7.04,180
+P025,Household,17.21,730
+P026,Household,31.4,730
+P027,Beverages,17.64,90
+P028,Household,11.34,730
+P029,Household,8.35,730
+P030,Beverages,39.75,90
+P031,Dairy,13.95,30
+P032,Dairy,39.71,180
+P033,Snacks,21.13,7
+P034,Personal Care,43.84,90
+P035,Snacks,9.29,365
+P036,Household,37.83,730
+P037,Dairy,30.26,30
+P038,Household,48.73,730
+P039,Dairy,39.24,15
+P040,Dairy,28.52,15
+P041,Snacks,24.77,30
+P042,Beverages,19.15,90
+P043,Household,16.22,730
+P044,Household,29.29,730
+P045,Household,15.3,730
+P046,Dairy,36.27,90
+P047,Snacks,33.1,365
+P048,Beverages,9.75,90
+P049,Personal Care,14.83,90
+P050,Dairy,19.6,90
